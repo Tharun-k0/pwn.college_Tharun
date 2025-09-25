@@ -1,12 +1,12 @@
-# Challenge 1 : Pondering And Absolute Paths
+# Challenge 3: Position Thy Self
 
-The challenge is a step above the previous and we have to invoke a program in the challenge directory which is also in the root directory
+Had to navigate to a directory using the cd command and then invoke a program in this challenge.
 
 ## My solve
 
 **Flag:** pwn.college{EvbWmXqBtOn77r2Hvsd1fjuwZIc.QX2QTN0wiN3gjNzEzW}
 
-What I Learnt:The cd command,directories, absolute path and how to navigate directories using the cd comand and invoking programs inside it using absolute path.
+What I Learnt:The cd command,directories, absolute path and how to navigate directories using the cd command and invoking programs inside it using absolute path.
 
 - Navigated to given directory using the cd command "cd /usr/share/build-essential" and then executed the
   "/challenge/run" program

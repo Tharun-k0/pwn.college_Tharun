@@ -1,0 +1,26 @@
+# Challenge 4 : Implicit Relative Paths,From /
+
+Had to use / as current working directory and use relative paths to open /challenge/run
+
+## My solve
+
+**Flag:** pwn.college{AW0cukI7MHmjP8b9ArKbOsFhjCM.QX4QTN0wiN3gjNzEzW}
+
+What I Learnt:Invoking programs using implicit relative paths from the root dir
+
+-I used cd to go into the root directory and then invoked challenge/run
+
+```
+hacker@paths~implicit-relative-paths-from-:~$ cd /
+hacker@paths~implicit-relative-paths-from-:/$ challenge/run
+Correct!!!
+challenge/run is a relative path, invoked from the right directory!
+Here is your flag:
+pwn.college{8FnxiUfJ3hP75dNg6cmbTx9JsYL.QX5QTN0wiN3gjNzEzW}
+```
+
+Incorrect Tangents :
+None
+
+References :
+None
