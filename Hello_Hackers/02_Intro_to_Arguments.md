@@ -1,6 +1,6 @@
-# Challenge Name
+# Challenge 2 : Intro to Arguments
 
-Intro to Arguments
+Developed basic understanding of arguments
 
 ## My solve
 
@@ -14,3 +14,9 @@ hacker@hello~intro-to-arguments:~$ hello hackers
 Success! Here is your flag:
 pwn.college{8HsT6PJJG_9xqBPH7-c9H2ZOdkT.QX4YjM1wiN3gjNzEzW}
 ```
+
+Incorrect Tangents :
+None
+
+References :
+None

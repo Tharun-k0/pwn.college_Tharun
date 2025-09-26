@@ -1,6 +1,6 @@
-# Challenge Name
+# Challenge 3 : Command History
 
-Command History
+Learnt how to pull up command history
 
 ## My solve
 
@@ -11,3 +11,9 @@ Command History
 ```
 hacker@hello~command-history:~$ the flag is pwn.college{gGnMH_8yYOEvpH0zH55Z5aWJQsf.0lNzEzNxwiN3gjNzEzW}
 ```
+
+Incorrect Tangents :
+None
+
+References :
+None
