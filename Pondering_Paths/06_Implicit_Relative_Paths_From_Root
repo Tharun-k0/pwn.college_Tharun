@@ -1,6 +1,6 @@
 # Challenge 4 : Implicit Relative Paths,From /
 
-Had to use / as current working directory and use relative paths to open /challenge/run
+Had to use / as current working directory and use implicit relative path to open /challenge/run
 
 ## My solve
 
