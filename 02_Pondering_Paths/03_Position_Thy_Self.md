@@ -6,7 +6,7 @@ Had to navigate to a directory using the cd command and then invoke a program in
 
 **Flag:** pwn.college{EvbWmXqBtOn77r2Hvsd1fjuwZIc.QX2QTN0wiN3gjNzEzW}
 
-What I Learnt :The cd command,directories, absolute path and how to navigate directories using the cd command and invoking programs inside it using absolute path.
+What I Learnt: The cd command,directories, absolute path and how to navigate directories using the cd command and invoking programs inside it using absolute path.
 
 - Navigated to given directory using the cd command "cd /usr/share/build-essential" and then executed the
   "/challenge/run" program
