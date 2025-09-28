@@ -6,7 +6,7 @@ Had to navigate to root dir and then call challenge/run using relative path
 
 **Flag:** pwn.college{kWkmPdy40uK9wbUXvXuYG43n2MT.QXwUTN0wiN3gjNzEzW}
 
-What I Learnt:Invoking programs using explicit relative paths from the root dir
+What I Learnt: Invoking programs using explicit relative paths from the root directory
 
 -I used cd to go into the root directory and then invoked challenge/run
 
