@@ -24,7 +24,7 @@ pwn.college{QC8GDv0WDFjH6EBaJWWuYPEmLEq.QXwUDO0wiN3gjNzEzW}
 ```
 
 Incorrect Tangents :
-Tried to
+Wrote down the flag file's name without cat.
 
 References :
 None
