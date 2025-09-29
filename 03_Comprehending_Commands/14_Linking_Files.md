@@ -1,12 +1,12 @@
 # Challenge 14 : Linking Files
 
-Developed an understanding of the ln -s command and the find command
+Developed an understanding of the ln -s command and the file command
 
 ## My solve
 
 **Flag:** pwn.college{Urtfl3-h1TFNo7cE1mpK6rtOcFl.QX5ETN1wiN3gjNzEzW}
 
-What I Learnt: Understood the working of the ln -s and the find command
+What I Learnt: Understood the working of the ln -s and the file command
 
 - Used the ln -s command to link the flag to the not-the-flag file and then run /challenge/catflag which reads out the not-the-flag file to obtain the flag
 
