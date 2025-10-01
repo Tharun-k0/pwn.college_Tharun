@@ -16,7 +16,7 @@ What I Learnt: Calling commands using fifos
 ```
 
 Incorrect Tangents :
-hacker@piping~split-piping-stderr-and-stdout:~$ /challenge/hack |/challenge/planet | 2> >(/challenge/the)
+None
 
 References :
 None
