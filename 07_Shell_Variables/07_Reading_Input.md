@@ -1,4 +1,4 @@
-# Challenge 7 : Reaing Input
+# Challenge 7 : Reading Input
 
 Developed an understanding of how to use read to set values to variables
 
