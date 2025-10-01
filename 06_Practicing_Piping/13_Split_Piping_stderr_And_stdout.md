@@ -1,4 +1,4 @@
-# Challenge 12 : Split Piping stderr And stdout
+# Challenge 13 : Split Piping stderr And stdout
 
 Developed an understanding of duplicating output of a program as input into multiple programs using tee
 
